@@ -3,7 +3,7 @@
 This is a SpringBoot Java Application which serves as a cart service using API calls through FakeStoreAPI.
 This app. has various features like getting all carts , updating and deleting carts etc. which are fulfilled by calling repective APIs.
 
-#Project Set-Up:
+##Project Set-Up:
 
 To setup the project you can follws these steps:
 1. Intialize a new Spring Boot project from "https://start.spring.io/" .
@@ -12,7 +12,7 @@ To setup the project you can follws these steps:
 4. Now extract and open that file in VScode(or any IDE) , mae sure you have neccesary exentions of SpringBoot.
 5. And you can clone my code in it , and can work on it via your local machine.
 
-#How to Run Project:
+##How to Run Project:
 
 To run the project you can go through these steps:
 1. You can go to any of your browser and type the url:"http://localhost:8080/carts/" .
@@ -26,7 +26,7 @@ To run the project you can go through these steps:
      7. Delete Product : "http://localhost:8080/carts/{id}"
 
 
-#How to Run Test:
+##How to Run Test:
 
 To run the test , you can use PostMan , which is one of the most popular software testing tools which is used for API testing.
 
